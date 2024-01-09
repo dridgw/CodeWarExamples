@@ -1,5 +1,10 @@
+import random as ran
+import hangman_stages as hs
+import sys
+
 while True:
-    import random as ran, Hangman.hangman_stages as hs, sys
+
+
     #List of random words
     words = ["tiger","tree","underground","giraffe","chair"]
 
